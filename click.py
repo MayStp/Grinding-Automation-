@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 cwd = os.getcwd()
 path = os.path.join(cwd, "chromedriver.exe")
 
-username = "maycleansitepu0204"
-password = "Yakintembus100%???"
+username = "Your_Username"
+password = "Your_Password"
 exp = [
     "169623",
     "168234",
